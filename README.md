@@ -1,2 +1,3 @@
-# psychic-adventure-simple-scraper
-Simple web scraper
+# 🎵🐟 Musical Psychic Version Simple Scraper
+
+👾 Simple web scraper.
