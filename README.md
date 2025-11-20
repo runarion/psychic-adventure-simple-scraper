@@ -1,3 +1,3 @@
-# 🎵🐟 Musical Psychic Version Simple Scraper
+# 🎵🕸️ Musical Psychic Version Simple Scraper
 
-👾 Simple web scraper.
+🔍 Simple web scraper.
