@@ -19,8 +19,8 @@ def basic_scraper(target_url):
 
 
 if __name__ == "__main__":
-    url = "http://example.com"
-    content = basic_scraper(url)
+    URL = "http://example.com"
+    content = basic_scraper(URL)
     if content:
         print("Scraped content successfully.")
     else:
